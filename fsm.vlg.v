@@ -52,4 +52,4 @@ module FigoFSM (
       ROOM6: next_state = ROOM6;
       ROOM7: next_state = ROOM6;
     endcase
-  end
+  end module
